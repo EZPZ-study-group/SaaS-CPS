@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 겹치지롱로컬메롱
+    port: 8080
+  messages:
+    encoding: UTF-8

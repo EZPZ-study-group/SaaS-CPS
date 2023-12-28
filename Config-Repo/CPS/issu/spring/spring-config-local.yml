@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: CouponIssueServer-local
+    port: 8080
+  messages:
+    encoding: UTF-8
